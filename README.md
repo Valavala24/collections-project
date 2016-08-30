@@ -1,4 +1,4 @@
-#Java Basics Project
+#Collections Project
 
 *Simple Java Basic Concepts*
 
